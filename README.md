@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrataeTH My darling is puem.
+- 👋 Hi, I’m @KrataeTH
 
 <!---
 KrataeTH/KrataeTH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
